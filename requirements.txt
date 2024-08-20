@@ -1,0 +1,4 @@
+pypdf 
+langchain_community
+langchain-google-genai
+faiss-cpu
